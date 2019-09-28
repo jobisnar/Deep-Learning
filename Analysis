@@ -1,0 +1,3 @@
+In processing and training, MLP is noticeably faster, but it's results have low accuracy, around 48.5% only.
+While using CNN, it took much more time, but the accuracy greatly increased, showing that it is really a much more accurate neural network.
+Even at epoch 1, CNN already had an accuracy of 55%, already above the final result of the MLP network. That is why, CNN is much better to use.
